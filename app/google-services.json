@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "919370439683",
+    "firebase_url": "https://family-radar-212511.firebaseio.com",
+    "project_id": "family-radar-212511",
+    "storage_bucket": "family-radar-212511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919370439683:android:fe89a267a3e01b26",
+        "android_client_info": {
+          "package_name": "com.example.dmitrii.familyradar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919370439683-4v7u3ssejg712qrghot8sq1ep0u8qqst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dmitrii.familyradar",
+            "certificate_hash": "6ab70e5f59be799dbfb1b535eabadce5a3cc2b5e"
+          }
+        },
+        {
+          "client_id": "919370439683-h5l8sv96vq49djpi5dkudgnpi8ui4l1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBk2NqoKqO0oG8h36LO06hj_7UbHvk9wg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919370439683-h5l8sv96vq49djpi5dkudgnpi8ui4l1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

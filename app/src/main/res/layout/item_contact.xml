@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:paddingBottom="@dimen/item_contact_paddingBottom"
+    android:paddingEnd="@dimen/item_contact_paddingEnd"
+    android:paddingStart="@dimen/item_contact_paddingStart"
+    android:paddingTop="@dimen/item_contact_paddingTop">
+
+    <ImageView
+        android:id="@+id/imageContactList"
+        android:layout_width="@dimen/image_contact_icon_width"
+        android:layout_height="@dimen/image_contact_icon_height"
+        android:contentDescription="@string/image_contact"
+        app:srcCompat="@mipmap/ic_launcher_round" />
+
+    <TextView
+        android:id="@+id/name_contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/text_contact_list_marginStart" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:padding="2dp">
+
+        <CheckBox
+            android:id="@+id/checkBoxContact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:theme="@style/checkBox"/>
+    </LinearLayout>
+</LinearLayout>
+</layout>

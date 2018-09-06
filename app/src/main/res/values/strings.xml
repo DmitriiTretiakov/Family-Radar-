@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Family Radar</string>
+    <string name="family_radar">Family Radar</string>
+    <string name="contacts">Contacts</string>
+    <string name="mapTitle">Map</string>
+    <string name="addContact">Add Contact</string>
+    <string name="outGoogle">Sign out of google account</string>
+    <string name="listContact">contact</string>
+    <string name="uploadSent">Request for upload sent</string>
+    <string name="todo">TODO</string>
+    <string name="buttonGoogle">Sign in witch Google</string>
+    <string name="social">social</string>
+    <string name="image_contact">TODO</string>
+    <string name="checkoutBoxContact">CheckBoxContact</string>
+    <string name="AddContact">Enter email address</string>
+    <string name="ButtonAddContact">Add Contact</string>
+    <string name="SignOut">Sign out</string>
+    <string name="not_log_in">Not log in</string>
+    <string name="you_left_the_account">You left the account</string>
+    <string name="not_close_session">Not close session</string>
+    <string name="circlePhoto">CirclePhoro</string>
+    <string name="textNameProfile">Name</string>
+    <string name="emailProfile">Email</string>
+    <string name="buttonSignOutAccount">Sign out account</string>
+    <string name="profile">Profile</string>
+    <string name="google_maps_key">AIzaSyDCdONLpfaTgCIPFpJSBOxItqBffj3TCwM</string>
+    <string name="searchUsers">Enter mail for search</string>
+    <string name="addFriend">Add Friend</string>
+    <string name="titleLocationPermission">Description request permission</string>
+    <string name="textLocationPermission">For full-scale Family Radar work, we need to get your location</string>
+</resources>

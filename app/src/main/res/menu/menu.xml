@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:yourapp="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/exitButton"
+        android:title="Exit"/>
+
+    <item
+        android:id="@+id/myProfile"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/social"
+        app:showAsAction="always"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_social"
+        android:title="@string/social"
+        android:onClick="onOptionsItemSelected"/>
+
+    <item
+        android:id="@+id/delete"
+        app:showAsAction="always"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_rubbish_bin_delete_button"
+        yourapp:showAsAction="always"
+        android:title="delete" />
+
+    <item
+        android:id="@+id/checkSymbol"
+        app:showAsAction="always"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_check_symbol"
+        yourapp:showAsAction="always"
+        android:title="checkSymbol" />
+
+</menu>

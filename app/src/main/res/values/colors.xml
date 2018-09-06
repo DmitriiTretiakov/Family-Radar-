@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9D7AFF</color>
+    <color name="colorPrimaryDark">#8470BD</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorStartScreenText">#FFFFFF</color>
+    <color name="colorStartBackground">#9D7AFF</color>
+    <color name="colorButtonGoogle">#FFFFFF</color>
+    <color name="colorTextGoogle">#000000</color>
+    <color name="colorButtonBackground">#FFFFFF</color>
+    <color name="colorButtonFab">#00BCD4</color>
+    <color name="colorTextHintActivated">#9D7AFF</color>
+    <color name="colorTextHintNormal">#9F9F9F</color>
+    <color name="colorText">#9D7AFF</color>
+    <color name="colorButtonAddContact">#9D7AFF</color>
+    <color name="colorCirclePhoto">#9D7AFF</color>
+    <color name="colorTextProfile">#1e1e1e</color>
+    <color name="colorEmailProfile">#5e5e5e</color>
+    <color name="colorSearchLayout">#9D7AFF</color>
+    <color name="colorLinkText">#9d7aff</color>
+
+
+</resources>
